@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "drone-detection-dataset"
+version = "0.1.0"
+description = ""
+authors = ["dcaustin33 <dcaustin33@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ffmpeg-python = "^0.2.0"
+tqdm = "^4.66.4"
+opencv-python = "^4.10.0.84"
+numpy = "<2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

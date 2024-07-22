@@ -1,0 +1,6 @@
+*.jpg
+*.jpeg
+*.pt
+*.pth
+*.venv
+.venv
