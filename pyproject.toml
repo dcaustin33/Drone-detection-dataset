@@ -11,6 +11,7 @@ ffmpeg-python = "^0.2.0"
 tqdm = "^4.66.4"
 opencv-python = "^4.10.0.84"
 numpy = "<2.0"
+jsonlines = "^4.0.0"
 
 
 [build-system]
